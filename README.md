@@ -28,8 +28,7 @@ Uso diferentes tecnologias para desarrollar los proyectos, aqui te muestro algun
 
 * Introduccion
 
-En el portafolio vienen demos funcionales donde puedes, subir imagenes, consumir una APIREST desarrollada por mi en php
-administrar, las plataformas de demo, manejo de roles, operaciones crud, y creacion de documentos pdf, este portafolio se va a ir actualizando con otros proyectos en desarrollo, dentro del sitio web puedes consultar su documentacion en la opcion del menu acerca de y te mandara a los repositorios aqui en Github.
+En el portafolio vienen demos funcionales donde puedes, subir, editar o borrar imagenes, consumir una APIREST desarrollada por mi el proyecto funcional se muestran los endpoints asi como la documentacion para usarlos, otras cosas que se pueden hacer en estas demos son, manejo de roles, operaciones crud, y creacion de documentos pdf, este portafolio se va a ir actualizando con otros proyectos en desarrollo, dentro de cada proyecto funcional puedes consultar su documentacion en la opcion del menu acerca de y te mandara a los repositorios aqui en Github con su correspondiente documentacion y codigo para que RH pueda verlo y evaluarlo.
 
 * Para Rh y reclutadores
 
@@ -40,6 +39,8 @@ Este portafolio no es un sitio web estatico es otra plataforma que yo uso para s
 tambien cuento con un canal de youtube donde se suben los video de los video juegos que he desarrollado en unity, c# y java. En algo momento se subiran ya sea el exe para los juegos o una implementacion html5 para jugarlos desde el navegador asi como documentacion en github.
 
 # Link del Portafolio
+
+https://daxdev.helioho.st/index.php
 
 # Link de youtube
 
