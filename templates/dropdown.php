@@ -34,6 +34,11 @@ aria-expanded="false"
 <a href="https://www.youtube.com/watch?v=n-Ifwnq47kc" class="hover">
 <i class="fas fa-brands fa-youtube"></i>Youtube</a>  
 </li>
+<hr>
+<li>
+<a href="https://github.com/danielito-yagami/portafolio" class="hover">
+<i class="fa solid fa-book"></i>About</a>  
+</li>
 
 
       
